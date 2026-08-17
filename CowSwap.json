@@ -1,0 +1,49 @@
+{
+  "name": "Coinbase Tokenized Stocks",
+  "timestamp": "2026-08-17T17:30:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "coinbase",
+    "tokenized-stocks",
+    "base",
+    "rwa"
+  ],
+  "tokens": [
+    {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/aapl-256.svg"
+    },
+    {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/goog-256.svg"
+    },
+    {
+      "address": "0xb2000000000000000000008bC8786B856E61707C",
+      "symbol": "META",
+      "name": "Meta Platforms Inc.",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/meta-256.svg"
+    },
+    {
+      "address": "0xb20000000000000000000078ee7ce2fE4908108C",
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/nvda-256.svg"
+    }
+  ]
+}
