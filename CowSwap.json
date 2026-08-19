@@ -1,11 +1,12 @@
 {
   "name": "Coinbase Tokenized Stocks",
-  "timestamp": "2026-08-17T17:50:28+00:00",
+  "timestamp": "2026-08-19T04:07:14+00:00",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
+  "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/list-logo.svg",
   "keywords": [
     "coinbase",
     "tokenized-stocks",
