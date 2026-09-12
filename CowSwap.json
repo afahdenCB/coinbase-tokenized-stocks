@@ -1,10 +1,10 @@
 {
   "name": "Coinbase Tokenized Stocks",
-  "timestamp": "2026-08-19T04:07:14+00:00",
+  "timestamp": "2026-09-11T23:40:29+00:00",
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/list-logo.svg",
   "keywords": [
@@ -16,15 +16,23 @@
   "tokens": [
     {
       "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
-      "symbol": "AAPL",
+      "symbol": "AAPLc",
       "name": "Apple (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/aapl-256.svg"
     },
     {
+      "address": "0xb200000000000000000000d9192b6B456483C2E8",
+      "symbol": "AMZNc",
+      "name": "Amazon (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/amzn-256.svg"
+    },
+    {
       "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
-      "symbol": "GOOGL",
+      "symbol": "GOOGLc",
       "name": "Alphabet (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
@@ -32,19 +40,59 @@
     },
     {
       "address": "0xb2000000000000000000008bC8786B856E61707C",
-      "symbol": "META",
+      "symbol": "METAc",
       "name": "Meta Platforms (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/meta-256.svg"
     },
     {
+      "address": "0xB200000000000000000000Ab99cFa739E253872B",
+      "symbol": "MSFTc",
+      "name": "Microsoft (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/msft-256.svg"
+    },
+    {
+      "address": "0xb2000000000000000000004884b426556b92883d",
+      "symbol": "MSTRc",
+      "name": "Strategy (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/mstr-256.svg"
+    },
+    {
       "address": "0xb20000000000000000000078ee7ce2fE4908108C",
-      "symbol": "NVDA",
+      "symbol": "NVDAc",
       "name": "NVIDIA (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/nvda-256.svg"
+    },
+    {
+      "address": "0xb200000000000000000000397293Cb8cda9a10c5",
+      "symbol": "SNDKc",
+      "name": "SanDisk (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/sndk-256.svg"
+    },
+    {
+      "address": "0xb2000000000000000000007b9fcbd005511aCBd5",
+      "symbol": "SPCXc",
+      "name": "SpaceX (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/spcx-256.svg"
+    },
+    {
+      "address": "0xb2000000000000000000001e800a7f5189430cD0",
+      "symbol": "TSLAc",
+      "name": "Tesla (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/tsla-256.svg"
     }
   ]
 }
