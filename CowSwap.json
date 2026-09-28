@@ -1,9 +1,9 @@
 {
   "name": "Coinbase Tokenized Stocks",
-  "timestamp": "2026-09-11T23:40:29+00:00",
+  "timestamp": "2026-09-28T22:00:00+00:00",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/list-logo.svg",
@@ -63,12 +63,28 @@
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/mstr-256.svg"
     },
     {
+      "address": "0xb200000000000000000000Fd2f87532B90095211",
+      "symbol": "MUc",
+      "name": "Micron Technology (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/mu-256.svg"
+    },
+    {
       "address": "0xb20000000000000000000078ee7ce2fE4908108C",
       "symbol": "NVDAc",
       "name": "NVIDIA (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/nvda-256.svg"
+    },
+    {
+      "address": "0xb2000000000000000000007d16372840dF4dAbbe",
+      "symbol": "PLTRc",
+      "name": "Palantir (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/pltr-256.svg"
     },
     {
       "address": "0xb200000000000000000000397293Cb8cda9a10c5",
