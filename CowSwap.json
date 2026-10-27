@@ -1,9 +1,9 @@
 {
   "name": "Coinbase Tokenized Stocks",
-  "timestamp": "2026-09-28T22:00:00+00:00",
+  "timestamp": "2026-10-23T00:00:00+00:00",
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/list-logo.svg",
@@ -17,7 +17,7 @@
     {
       "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
       "symbol": "AAPLc",
-      "name": "Apple (Coinbase Tokenized Stocks)",
+      "name": "Apple Inc. (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/aapl-256.svg"
@@ -25,23 +25,79 @@
     {
       "address": "0xb200000000000000000000d9192b6B456483C2E8",
       "symbol": "AMZNc",
-      "name": "Amazon (Coinbase Tokenized Stocks)",
+      "name": "Amazon.com Inc. (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/amzn-256.svg"
     },
     {
+      "address": "0xB20000000000000000000026215D755356E5043f",
+      "symbol": "ARMc",
+      "name": "Arm Holdings plc (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/arm-256.png"
+    },
+    {
+      "address": "0xb200000000000000000000d2b7D9aeE52F6C6BEf",
+      "symbol": "BIDUc",
+      "name": "Baidu, Inc. (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/bidu-256.png"
+    },
+    {
+      "address": "0xb200000000000000000000ca7C6D1438e7245eb6",
+      "symbol": "BILIc",
+      "name": "Bilibili Inc. (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/bili-256.png"
+    },
+    {
+      "address": "0xB200000000000000000000c36ce081Dd09e86cA2",
+      "symbol": "BUDc",
+      "name": "Anheuser-Busch InBev SA/NV (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/bud-256.png"
+    },
+    {
       "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
       "symbol": "GOOGLc",
-      "name": "Alphabet (Coinbase Tokenized Stocks)",
+      "name": "Alphabet Inc. (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/goog-256.svg"
     },
     {
+      "address": "0xb200000000000000000000f3049F4aa834b23b64",
+      "symbol": "HSAIc",
+      "name": "Hesai Group (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/hsai-256.png"
+    },
+    {
+      "address": "0xb200000000000000000000F6b0417af5F52341FC",
+      "symbol": "INFYc",
+      "name": "Infosys Limited (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/infy-256.png"
+    },
+    {
+      "address": "0xb200000000000000000000D61eFD9F54A23ef9eB",
+      "symbol": "LIc",
+      "name": "Li Auto Inc. (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/li-256.png"
+    },
+    {
       "address": "0xb2000000000000000000008bC8786B856E61707C",
       "symbol": "METAc",
-      "name": "Meta Platforms (Coinbase Tokenized Stocks)",
+      "name": "Meta Platforms Inc. (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/meta-256.svg"
@@ -49,7 +105,7 @@
     {
       "address": "0xB200000000000000000000Ab99cFa739E253872B",
       "symbol": "MSFTc",
-      "name": "Microsoft (Coinbase Tokenized Stocks)",
+      "name": "Microsoft Corporation (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/msft-256.svg"
@@ -57,7 +113,7 @@
     {
       "address": "0xb2000000000000000000004884b426556b92883d",
       "symbol": "MSTRc",
-      "name": "Strategy (Coinbase Tokenized Stocks)",
+      "name": "Strategy Inc. (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/mstr-256.svg"
@@ -65,39 +121,111 @@
     {
       "address": "0xb200000000000000000000Fd2f87532B90095211",
       "symbol": "MUc",
-      "name": "Micron Technology (Coinbase Tokenized Stocks)",
+      "name": "Micron Technology Inc. (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/mu-256.svg"
     },
     {
+      "address": "0xb2000000000000000000002D2B5dc53c61f1bA06",
+      "symbol": "NIOc",
+      "name": "NIO Inc. (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/nio-256.png"
+    },
+    {
+      "address": "0xB2000000000000000000005ac674f707E357409c",
+      "symbol": "NOKc",
+      "name": "Nokia Corporation (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/nok-256.png"
+    },
+    {
       "address": "0xb20000000000000000000078ee7ce2fE4908108C",
       "symbol": "NVDAc",
-      "name": "NVIDIA (Coinbase Tokenized Stocks)",
+      "name": "NVIDIA Corporation (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/nvda-256.svg"
     },
     {
+      "address": "0xb2000000000000000000008D5328e9208773dC58",
+      "symbol": "NVOc",
+      "name": "Novo Nordisk A/S (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/nvo-256.png"
+    },
+    {
+      "address": "0xB200000000000000000000c8A7223510467D8563",
+      "symbol": "PDDc",
+      "name": "PDD Holdings Inc. (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/pdd-256.png"
+    },
+    {
       "address": "0xb2000000000000000000007d16372840dF4dAbbe",
       "symbol": "PLTRc",
-      "name": "Palantir (Coinbase Tokenized Stocks)",
+      "name": "Palantir Technologies Inc. (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/pltr-256.svg"
     },
     {
+      "address": "0xB20000000000000000000017BB66E9301E913A99",
+      "symbol": "SANc",
+      "name": "Banco Santander, S.A. (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/san-256.png"
+    },
+    {
+      "address": "0xb200000000000000000000da6F64c306234127E0",
+      "symbol": "SAPc",
+      "name": "SAP SE (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/sap-256.png"
+    },
+    {
+      "address": "0xB2000000000000000000003088798F6d0722AaAC",
+      "symbol": "SEc",
+      "name": "Sea Limited (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/se-256.png"
+    },
+    {
+      "address": "0xb200000000000000000000187f7071D6E321a7d2",
+      "symbol": "SKHYc",
+      "name": "SK hynix Inc. (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/skhy-256.png"
+    },
+    {
       "address": "0xb200000000000000000000397293Cb8cda9a10c5",
       "symbol": "SNDKc",
-      "name": "SanDisk (Coinbase Tokenized Stocks)",
+      "name": "Sandisk Corporation (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/sndk-256.svg"
     },
     {
+      "address": "0xb200000000000000000000a26326a922FFA87f6C",
+      "symbol": "SONYc",
+      "name": "Sony Group Corporation (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/sony-256.png"
+    },
+    {
       "address": "0xb2000000000000000000007b9fcbd005511aCBd5",
       "symbol": "SPCXc",
-      "name": "SpaceX (Coinbase Tokenized Stocks)",
+      "name": "Space Exploration Technologies Corp. (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/spcx-256.svg"
@@ -105,10 +233,34 @@
     {
       "address": "0xb2000000000000000000001e800a7f5189430cD0",
       "symbol": "TSLAc",
-      "name": "Tesla (Coinbase Tokenized Stocks)",
+      "name": "Tesla Inc. (Coinbase Tokenized Stocks)",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/tsla-256.svg"
+    },
+    {
+      "address": "0xB200000000000000000000349ef3Aa93a0897476",
+      "symbol": "ULc",
+      "name": "Unilever Plc (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/ul-256.png"
+    },
+    {
+      "address": "0xB20000000000000000000063376b142C0764B489",
+      "symbol": "VALEc",
+      "name": "Vale S.A. (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/vale-256.png"
+    },
+    {
+      "address": "0xb200000000000000000000e88EFe88D8aDE3f0dA",
+      "symbol": "WRDc",
+      "name": "WeRide Inc. (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/wrd-256.png"
     }
   ]
 }
