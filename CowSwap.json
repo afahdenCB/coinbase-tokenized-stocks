@@ -1,9 +1,9 @@
 {
   "name": "Coinbase Tokenized Stocks",
-  "timestamp": "2026-10-23T00:00:00+00:00",
+  "timestamp": "2026-10-27T00:00:00+00:00",
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/list-logo.svg",
@@ -29,6 +29,14 @@
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/amzn-256.svg"
+    },
+    {
+      "address": "0xb20000000000000000000016e38FD364d271Ba28",
+      "symbol": "ANTc",
+      "name": "Anthropic, PBC (Coinbase Tokenized Stocks)",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/afahdenCB/coinbase-tokenized-stocks/main/assets/ant-256.png"
     },
     {
       "address": "0xB20000000000000000000026215D755356E5043f",
